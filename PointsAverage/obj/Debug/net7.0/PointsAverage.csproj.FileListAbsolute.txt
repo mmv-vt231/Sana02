@@ -1,0 +1,14 @@
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.exe
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.deps.json
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.runtimeconfig.json
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.dll
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.pdb
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.AssemblyInfoInputs.cache
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.AssemblyInfo.cs
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.csproj.CoreCompileInputs.cache
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.dll
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\obj\Debug\net7.0\refint\PointsAverage.dll
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.pdb
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.genruntimeconfig.cache
+D:\MAIN_SCREEN_FOLDERS\Універ\Sana\Sana02\PointsAverage\obj\Debug\net7.0\ref\PointsAverage.dll
